@@ -14,7 +14,7 @@ export default function Home() {
           <li><strong>Junior Suite Familiare</strong> / Family Junior Suite</li>
           <li><strong>Matrimoniale Deluxe</strong> / Deluxe Double Room</li>
         </ul>
-        <p className="mt-2 text-sm italic">Puoi inserire le foto delle camere in un secondo momento modificando i file o caricando le immagini reali.</p>
+       
       </section>
 
       <section className="p-10">
